@@ -1,16 +1,33 @@
-## Hi there 👋
+### Awesome, you finally made it! 👋  Look no further, this is who you are looking for ↓
 
-<!--
-**avoort95/avoort95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Aspiring Data Engineer** skilled in `Python` (including `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`) and `SQL`. My repositories showcase completed projects like Datalab analyses and RFM modeling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **I’m currently working on:**
+
+* Building practical Data Engineering experience by developing a personal finance dashboard using `Streamlit`.
+    * _(Goal: Create an interactive tool for visualizing personal spending patterns)_
+* Constructing a full healthcare data pipeline from scratch utilizing `Python`, `Docker`, `Apache Airflow`, and `PostgreSQL`.
+    * _(Goal: Design and implement an automated, reliable data flow)_
+
+🌱 **I’m currently learning/deepening my knowledge in:**
+
+* Data pipeline orchestration (`Apache Airflow`).
+* Containerization practices (`Docker`).
+* Building interactive web applications (`Streamlit`).
+* Database management within pipelines (`PostgreSQL`).
+* End-to-end data engineering workflows.
+
+💬 **Ask me about:**
+
+* `Python` for data analysis and visualization (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`).
+* `SQL` query writing.
+* My completed projects (e.g., RFM analysis, Datalab notebooks - feel free to explore my repos!).
+
+📫 **How to reach me:**
+
+* LinkedIn: `(https://www.linkedin.com/in/valentijn-van-der-avoort-9b8ba87b/)`
+* Email: `v.avoort@gmail.com`
+
+---
