@@ -1,6 +1,6 @@
 ### Awesome, you finally made it! 👋  Look no further, this is who you are looking for ↓
 
-I'm an **Aspiring Data Engineer** skilled in `Python` (including `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`) and `SQL`. My repositories showcase completed projects like Datalab analyses and RFM modeling.
+I'm an **Aspiring Data Engineer** skilled in `Python` (including `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`) and `SQL`. My repositories showcase completed projects like Datalab notebooks and RFM modeling.
 
 ---
 
