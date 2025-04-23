@@ -23,7 +23,7 @@ I'm an **Aspiring Data Engineer** skilled in `Python` (including `Pandas`, `NumP
 
 * `Python` for data analysis and visualization (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`).
 * `SQL` query writing.
-* My completed projects (e.g., RFM analysis, Datalab notebooks - feel free to explore my repos!).
+* My repos
 
 📫 **How to reach me:**
 
