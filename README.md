@@ -1,4 +1,4 @@
-### Awesome, you finally made it! 👋  Look no further, this is who you are looking for ↓
+### Hi there 🤙
 
 I'm an **Aspiring Data Engineer** skilled in `Python` (including `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`) and `SQL`. My repositories showcase completed projects like Datalab notebooks and RFM modeling.
 
